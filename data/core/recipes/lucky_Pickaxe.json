@@ -1,19 +1,16 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "###",
-        "i*i",
-        "i*i"
-    ],
-    "key": {
-        "*": {
-                "item": "minecraft:stick"
-        },
-        "#": {
-                "tag": "core:lucky_block"
-        }
-    },
-    "result": {
-        "function": "lucky_pickaxe"
-    }
+	"type": "crafting_shaped",
+	"pattern": ["111", " 2 ", " 2 "],
+	"key": {
+		"1": {
+			"item": "minecraft:gold_block"
+		},
+		"2": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "minecraft:gold_block",
+		"count": 2
+	}
 }
