@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "i*i",
+        "i*i"
+    ],
+    "key": {
+        "*": {
+                "item": "minecraft:stick"
+        },
+        "#": {
+                "tag": "core:lucky_block"
+        }
+    },
+    "result": {
+        "function": "lucky_pickaxe"
+    }
+}

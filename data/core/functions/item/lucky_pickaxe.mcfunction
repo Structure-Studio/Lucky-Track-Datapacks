@@ -1,0 +1,1 @@
+give @p minecraft:golden_pickaxe{Damage:0s,"count":2,display:{Name:"[\"幸运镐子\"]"},Enchantments:[{id:"minecraft:efficiency",lvl:32767s}],AttributeModifiers:[{AttributeName:"generic.luck",Name:"noName",Amount:0.2d,Operation:0,UUIDMost:1198685555986328L,UUIDLeast:1198685555986328L,Slot:mainhand}],CanDestroy:["gold_block"]} 1
