@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:gold_block"
+        },
+        "title": {
+            "text": "幸运跑道",
+            "color": "white",
+            "bold": "true"
+        },
+        "frame": "task",
+        "description": {
+            "text": "感谢游玩幸运跑道地图",
+            "color": "blue"
+        },
+        "show_toast": true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "exampletrigger": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
